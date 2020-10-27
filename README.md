@@ -37,14 +37,15 @@ Here are some ideas to get you started:
 
 **TECHNOLOGIES I WORK WITH**
 
-![HTML](https://img.shields.io/badge/python%20-%23E34F26.svg?&style=for-the-badge&logo=python&logoColor=white)
-![CSS](https://img.shields.io/badge/%20-%231572B6.svg?&style=for-the-badge&logo=pytorch&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-tensorflow-blue?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Python](https://img.shields.io/badge/python%20-%23E34F26.svg?&style=for-the-badge&logo=python&logoColor=white)
+![Pytorch](https://img.shields.io/badge/pytorch%20-%231572B6.svg?&style=for-the-badge&logo=pytorch&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/-tensorflow-blue?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
-![ReactJs](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)
+
 
  🌐 **REACH ME ON**
 
+- [![Linkedin:Jean_Salvi](https://img.shields.io/badge/-Jean salvi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jean-salvi/)](https://www.linkedin.com/in/jean-salvi/)
 - [![Linkedin:jean-salvi](https://img.shields.io/badge/-Jean Salvi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jean-salvi)](https://www.linkedin.com/in/jean-salvi/)
 - [![Twitter: salviosage](https://img.shields.io/twitter/follow/salviosage?style=social)](https://twitter.com/salviosage)
 
