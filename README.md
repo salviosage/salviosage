@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# <p align='center'> Hi there, I am Jean (Jeans👖 if you are Anglophone 😄) 👋 </p>
+# <p align='center'> Hi there 👋 , I am Jean (Jeans👖 if you are Anglophone 😄) </p>
 
 ---
 
