@@ -14,3 +14,46 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# <p align='center'> Hi 👋 </p>
+
+---
+
+![Brand](firstCover.jpg)
+
+---
+
+**ABOUT ME...**
+<p align='center'>
+<h4> I am a Human being| Software && AI && ML engineer and sometimes i write technical articles. I am passionate about devolping and designing modern AI systems && Community inclusion generally . </h4>
+
+ Checkout my linkedin - **[MY LINKEDIN](https://www.linkedin.com/in/jean-salvi/)** 
+
+- 👯 I’m looking forward to collaborate on different open-source projects [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
+- 💬 Ask me about: AI,ML ❤️ 
+-  👩‍💻 Currently learning: technical writing 
+- ⚡ Fun fact: I love talking to myself 😜
+
+**TECHNOLOGIES I WORK WITH**
+
+![HTML](https://img.shields.io/badge/python%20-%23E34F26.svg?&style=for-the-badge&logo=python&logoColor=white)
+![CSS](https://img.shields.io/badge/%20-%231572B6.svg?&style=for-the-badge&logo=pytorch&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-tensorflow-blue?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
+![ReactJs](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)
+
+ 🌐 **REACH ME ON**
+
+- [![Linkedin:jean-salvi](https://img.shields.io/badge/-Jean Salvi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jean-salvi)](https://www.linkedin.com/in/jean-salvi/)
+- [![Twitter: salviosage](https://img.shields.io/twitter/follow/salviosage?style=social)](https://twitter.com/salviosage)
+
+
+</p>
+
+
+**GITHUB STAT'S**
+
+![stats](https://github-readme-stats.vercel.app/api?username=salviosage&show_icons=true&theme=synthwave)
+
+[![GitHub salviosage](https://img.shields.io/github/followers/salviosage?label=follow&style=social)](https://github.com/salviosage)
