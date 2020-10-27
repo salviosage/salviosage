@@ -45,8 +45,8 @@ Here are some ideas to get you started:
 
  🌐 **REACH ME ON**
 
-- [![Linkedin:Jean_Salvi](https://img.shields.io/badge/-Jean salvi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jean-salvi/)](https://www.linkedin.com/in/jean-salvi/)
-- [![Linkedin:jean-salvi](https://img.shields.io/badge/-Jean Salvi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jean-salvi)](https://www.linkedin.com/in/jean-salvi/)
+- [![Linkedin:Salvi](https://img.shields.io/badge/-JeanSalvi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jean-salvi/)](https://www.linkedin.com/in/jean-salvi/)
+- [![Linkedin:jeansalvi](https://img.shields.io/badge/-Jean Salvi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jean-salvi)](https://www.linkedin.com/in/jean-salvi/)
 - [![Twitter: salviosage](https://img.shields.io/twitter/follow/salviosage?style=social)](https://twitter.com/salviosage)
 
 
