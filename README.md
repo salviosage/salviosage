@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 **ABOUT ME...**
 <p align='center'>
-<h4> I am a Human being| Software & AI & ML engineer and sometimes i write technical articles. I am passionate about developing and designing modern AI systems and Community inclusion in general . </h4>
+<h4> I am a Human| Software & AI and ML engineer and sometimes i write technical articles. I am passionate about developing and designing modern AI systems and Community inclusion in general . </h4>
 
  Checkout my linkedin - **[MY LINKEDIN](https://www.linkedin.com/in/jean-salvi/)** 
 
@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 ![Pytorch](https://img.shields.io/badge/pytorch%20-%231572B6.svg?&style=for-the-badge&logo=pytorch&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/-tensorflow-blue?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
+![Typescript](https://img.shields.io/badge/-Typescript-ffb400?style=for-the-badge&logo=typescript&logoColor=ffff3f)
 
 
  🌐 **REACH ME ON**
