@@ -1,8 +1,8 @@
-### Hi there 👋
+
 
 <!--
 **salviosage/salviosage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# <p align='center'> Hi 👋 </p>
+# <p align='center'> Hi there, I am Jean (Jeans👖 if you are Anglophone 😄) 👋 </p>
 
 ---
 
