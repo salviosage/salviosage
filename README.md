@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 **ABOUT ME...**
 <p align='center'>
-<h4> I am a Human | Software & AI and ML engineer and sometimes I write technical articles. I am passionate about developing and designing modern AI systems and Community inclusion in general . </h4>
+<h4> I am a Human | Software & AI and ML engineer and sometimes I write technical articles. I am interested in all things AI and Community inclusion in general . </h4>
 
  Checkout my linkedin - **[MY LINKEDIN](https://www.linkedin.com/in/jean-salvi/)** 
 
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about: AI,ML ❤️ 
 -  👩‍💻 Currently learning: technical writing 
-- ⚡ Fun fact: I love talking to myself 😜
+- ⚡ Fun fact: fun_fact_can_not_be_empty  😜
 
 **TECHNOLOGIES I WORK WITH**
 
