@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 **ABOUT ME...**
 <p align='center'>
-<h4> I am a Human | Software & AI and ML engineer and sometimes I write technical articles. I am interested in all things AI and Community inclusion in general . </h4>
+<h4> I am a Human | Software & AI engineer, sometimes I write technical articles. I am interested in all things AI and Community inclusion in general . </h4>
 
  Checkout my linkedin - **[MY LINKEDIN](https://www.linkedin.com/in/jean-salvi/)** 
 
