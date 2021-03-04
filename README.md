@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking forward to collaborate on different open-source projects [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 - 💬 Ask me about: AI,ML ❤️ 
--  👩‍💻 Currently learning: technical writing 
+-  👩‍💻 Currently learning: Deep LR (be my companion) 
 - ⚡ Fun fact: fun_fact_can_not_be_empty  😜
 
 **TECHNOLOGIES I WORK WITH**
