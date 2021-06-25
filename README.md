@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# <p align='center'> Hi there 👋 , I am Jean (Jeans👖 if you are an Anglophone 😄) </p>
-
+# <p align='left'> Hi there 👋 , I am Jean (Jeans👖 if you're Anglophone 😄) </p>
+<!-- 
 ---
 
 ![Brand](firstCover.jpg)
 
----
+--- -->
 
 **ABOUT ME...**
 <p align='center'>
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking forward to collaborate on different open-source projects [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 - 💬 Ask me about: AI,ML ❤️ 
--  👩‍💻 Currently learning: Deep LR (be my companion) 
+-  👩‍💻 Currently learning: Deep Reinforcement Learning  **[(be my companion)](https://github.com/salviosage/Deep_R_Learning)** 
 - ⚡ Fun fact: fun_fact_can_not_be_empty  😜
 
 **TECHNOLOGIES I WORK WITH**
