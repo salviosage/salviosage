@@ -25,13 +25,13 @@ Here are some ideas to get you started:
 
 **ABOUT ME...**
 <p align='center'>
-<h4> I am a Human | Software & AI engineer, sometimes I write technical articles. I am interested in all things AI and Community inclusion in general . </h4>
+<h4>Just a normal folk who write codes. Pursuing being 👉👈 </h4>
 <!-- 
  Checkout my linkedin - **[MY LINKEDIN](https://www.linkedin.com/in/jean-salvi/)**  -->
 
-- 👯 I’m looking forward to collaborate on different open-source projects [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+- 👯 Got a podcast or event, looking for a speaker? well 👇 
 
-- 💬 Ask me about: AI,ML ❤️ 
+- 💬 Let's chat about Automation (AI,ML) 
 -  👩‍💻 Currently learning: Deep Reinforcement Learning  **[(be my companion)](https://github.com/salviosage/Deep_R_Learning)** 
 - ⚡ Fun fact: fun_fact_can_not_be_empty  😜
 
