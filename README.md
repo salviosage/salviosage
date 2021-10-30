@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <!-- 
  Checkout my linkedin - **[MY LINKEDIN](https://www.linkedin.com/in/jean-salvi/)**  -->
 
-- 👯 Got a podcast or event, looking for a speaker? well 👇 
+- 👯 Got a podcast or event? looking for a speaker? well 👇 
 
 - 💬 Let's chat about Automation (AI,ML) 
 -  👩‍💻 Currently learning: Deep Reinforcement Learning  **[(be my companion)](https://github.com/salviosage/Deep_R_Learning)** 
