@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 
 --- -->
 
-**ABOUT ME...**
-<p align='center'>
-<h4>I am interested in how learning, thinking, understanding and reasoning happens. And how to get it happen in computers (AI) </h4>
+
+ <p align='center'>
+<h3>I am interested in how learning, thinking, understanding and reasoning happens. And how to get it happen in computers (AI) </h3>
 <!-- 
  Checkout my linkedin - **[MY LINKEDIN](https://www.linkedin.com/in/jean-salvi/)**  -->
 
