@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 
  <p align='center'>
-<h3>I am interested in how learning, thinking, understanding and reasoning happens. And how to get it happen in computers (AI) </h3>
+<h3>I am interested in how learning, thinking, understanding, and reasoning happen. And how to get it to happen in computers (AI). </h3>
 <!-- 
  Checkout my linkedin - **[MY LINKEDIN](https://www.linkedin.com/in/jean-salvi/)**  -->
 
