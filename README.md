@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/salviosage) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/jean-salvi) [![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mailto:salviosage@gmail.com) [![See me on medium](https://img.shields.io/badge/--medium?label=Medium&logo=medium&style=social)](https://medium.com/@salviosage) [![See my resume](https://img.shields.io/badge/--resume?label=Resume&logo=resume&style=social)](./assets/jean_salvi_resume.pdf) [![See my portfolio](https://img.shields.io/badge/--portfolio?label=Portfolio&logo=portfolio&style=social)](https://twitter.com/salviosage) [![Follow on Instagram](https://img.shields.io/badge/--instagram?label=Instagram&logo=Instagram&style=social)](https://instagram.com/salviosage)
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/salviosage) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/jean-salvi) [![See me on medium](https://img.shields.io/badge/--medium?label=Medium&logo=medium&style=social)](https://medium.com/@salviosage)  [![See my portfolio](https://img.shields.io/badge/--portfolio?label=Portfolio&logo=portfolio&style=social)](https://twitter.com/salviosage) 
 ___
 
 |My github statistics|My languages|Streaks|
