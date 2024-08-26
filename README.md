@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 - 💬 Let's chat about Automation (AI,ML) 
 -  👩‍💻 Currently learning: Deep Reinforcement Learning  **[(be my companion)](https://github.com/salviosage/Deep_R_Learning)** 
-- ⚡ Fun fact: fun_fact_can_not_be_empty  😜
+- ⚡ Fun fact: fun_fact_can_not_be_empty  
 
 **TECHNOLOGIES I WORK WITH**
 
