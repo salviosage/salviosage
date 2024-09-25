@@ -1,39 +1,10 @@
 
 
-<!--
-**salviosage/salviosage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### Hi there 👋
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# <p align='left'> Hi there 👋 , I am Jean (Jeans👖 if you're Anglophone 😄) </p>
-<!-- 
----
-
-![Brand](firstCover.jpg)
-
---- -->
-
+# <p align='left'> Hi there 👋 , I am Salvi </p>
 
  <p align='center'>
 <h3>I am interested in how learning, thinking, understanding, and reasoning happen. And how to get it to happen in computers (AI). </h3>
-<!-- 
- Checkout my linkedin - **[MY LINKEDIN](https://www.linkedin.com/in/jean-salvi/)**  -->
-
-- 👯 Got a podcast or event? looking for a speaker? well 👇 
-
-- 💬 Let's chat about Automation (AI,ML) 
--  👩‍💻 Currently learning: Deep Reinforcement Learning  **[(be my companion)](https://github.com/salviosage/Deep_R_Learning)** 
-- ⚡ Fun fact: fun_fact_can_not_be_empty  
 
 **TECHNOLOGIES I WORK WITH**
 
@@ -44,22 +15,7 @@ Here are some ideas to get you started:
 ![Typescript](https://img.shields.io/badge/-Typescript-fblue?style=for-the-badge&logo=typescript&logoColor=ffff3f)
 
 
-<!--  🌐 **REACH ME ON**
-
-- [![Linkedin:Jean Salvi](https://img.shields.io/badge/-Jean_Salvi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jean-salvi/)](https://www.linkedin.com/in/jean-salvi/)
-- [![Medium:Jean Salvi](https://img.shields.io/badge/-Salviosage-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@salviosage)](https://medium.com/@salviosage)
-- [![Twitter: salviosage](https://img.shields.io/twitter/follow/salviosage?style=social)](https://twitter.com/salviosage)
-
- -->
 </p>
-
-<!-- 
-**GITHUB STAT'S**
-
-![stats](https://github-readme-stats.vercel.app/api?username=salviosage&show_icons=true&theme=synthwave)
-
-[![GitHub salviosage](https://img.shields.io/github/followers/salviosage?label=follow&style=social)](https://github.com/salviosage) -->
-
 
 ### Connect with me:
 
